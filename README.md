@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **fernando.cruz.cavina@gmail.com**
 
-- 👨‍💻 All of my certificates are available at [https://drive.google.com/drive/folders/1BBqjjPQiFlt3fAGpsHuVhbtWpiepcOQj?usp=sharing](https://drive.google.com/drive/folders/1BBqjjPQiFlt3fAGpsHuVhbtWpiepcOQj?usp=sharing)
+- 👨‍💻 All of my certificates are available at [google drive](https://drive.google.com/drive/folders/1BBqjjPQiFlt3fAGpsHuVhbtWpiepcOQj?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
