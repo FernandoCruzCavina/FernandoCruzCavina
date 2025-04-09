@@ -1,19 +1,34 @@
-<h1 align="center">Hi 👋, I'm Fernando Cruz</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h1 align="center">
+  Hi 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGo2dTl0ejk1bHBjbDBpNTA2MGh4MW0xZ3F1YW9vY3lhaGkzbzQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" 
+    alt="wave hand" 
+    width="40"
+  />
+  , I'm Fernando
+</h1>
+<h3 align="center">
+  A passionate backend developer from Brazil
+  <img src="https://cdn.pixabay.com/animation/2024/02/24/13/31/13-31-36-47_512.gif" 
+    alt="planet" 
+    width="40"
+  />
+</h3>
 
 - 🌱 I’m currently learning **java and typescript**
 
-- 💬 Ask me all about **java, please!**
-
 - 📫 How to reach me **fernando.cruz.cavina@gmail.com**
-
-- 👨‍💻 All of my certificates are available at [google drive](https://drive.google.com/drive/folders/1BBqjjPQiFlt3fAGpsHuVhbtWpiepcOQj?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/fernando_cruz_c2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fernando_cruz_c2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fernandocruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fernandocruz" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@fernando_cruz_c2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@fernando_cruz_c2" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/fernando_cruz_c2" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fernando_cruz_c2" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/fernandocruz" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fernandocruz" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerearth.com/@fernando_cruz_c2" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@fernando_cruz_c2" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
