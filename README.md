@@ -1,5 +1,4 @@
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4500&pause=1000&color=53F7D2&width=435&height=45&lines=>Greetings%2C+devs!+%3D)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&height=40&lines=%3E+Greetings%2C+devs!++%3D);%3E+I'm+Fernando+Cruz+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG" />
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernando.cruz.cavina@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-cruz-cavina-487563303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
