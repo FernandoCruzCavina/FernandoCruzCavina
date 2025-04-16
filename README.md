@@ -16,9 +16,6 @@
   <a href="https://www.leetcode.com/fernandocruz" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fernandocruz" height="30" width="40" />
   </a>
-  <a href="https://www.hackerearth.com/@fernando_cruz_c2" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@fernando_cruz_c2" height="30" width="40" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
