@@ -39,7 +39,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fernandocruzcavina&show_icons=true&cache_seconds=86400&theme=ambient_gradient"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fernandocruzcavina&show_icons=true&cache_seconds=86400&theme=ambient_gradient&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=fernandocruzcavina&show_icons=true" />
