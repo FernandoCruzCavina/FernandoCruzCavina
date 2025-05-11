@@ -45,7 +45,7 @@
     </td>
     <td align="center">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/><br/>
+        <img src="https://images.icon-icons.com/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" width="40" height="40" alt="MySQL"/><br/>
         <sub>MySQL</sub>
       </a>
     </td>
@@ -63,13 +63,13 @@
     </td>
     <td align="center">
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/><br/>
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="40" height="40" alt="React"/><br/>
         <sub>React</sub>
       </a>
     </td>
     <td align="center">
       <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring"/><br/>
+        <img src="https://static-00.iconduck.com/assets.00/spring-icon-1024x1023-ljxx8bf7.png" width="40" height="40" alt="Spring"/><br/>
         <sub>Spring</sub>
       </a>
     </td>
@@ -81,19 +81,19 @@
     </td>
     <td align="center">
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br/>
+        <img src="https://cdn-icons-png.flaticon.com/256/5968/5968381.png" width="40" height="40" alt="TypeScript"/><br/>
         <sub>TypeScript</sub>
       </a>
     </td>
     <td align="center">
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/><br/>
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="40" height="40" alt="Docker"/><br/>
         <sub>Docker</sub>
       </a>
     </td>
     <td align="center">
       <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis"/><br/>
+        <img src="https://static-00.iconduck.com/assets.00/redis-icon-2048x1749-sfqcx1af.png" width="40" height="40" alt="Redis"/><br/>
         <sub>Redis</sub>
       </a>
     </td>
