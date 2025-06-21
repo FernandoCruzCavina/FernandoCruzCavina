@@ -4,12 +4,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-cruz-cavina)
 ![Localization]( https://custom-icon-badges.demolab.com/badge/SP-BRAZIL-brightgreen?style=for-the-badge&logo=location&logoColor=white)
 
-- I’m currently learning **java and typescript** <img src= "https://media1.giphy.com/media/EMItNuVu9Qi2NPblnN/giphy.webp?cid=ecf05e476naq1f1l15wfauobgsp59d8hotsxmxrczt623rdf&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="25"/> 
+- I’m currently learning **java  spring boot** <img src= "https://media1.giphy.com/media/EMItNuVu9Qi2NPblnN/giphy.webp?cid=ecf05e476naq1f1l15wfauobgsp59d8hotsxmxrczt623rdf&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="25"/> 
 
 - How to reach me **fernando.cruz.cavina@gmail.com** <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWp0dzFpMmw4cXZkb3liMGlrcDZzYW5zaXJxbHcxNjllajRocGZkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7NgYelDPXmzbzxrKsj/giphy.gif" width="30"/>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <table>
   <tr>
     <td align="center">
@@ -28,7 +28,7 @@
 </table>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <table>
   <tr>
     <td align="center">
@@ -100,27 +100,28 @@
   </tr>
 </table>
 
+##
 
-
-<div >
-  <picture align="right">
+<div  align="center">
+  <h3 align="left">GitStats</h3>
+  <picture >
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fernandocruzcavina&show_icons=true&hide=prs&theme=dark&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"
+    srcset="https://github-readme-stats.vercel.app/api?username=fernandocruzcavina&show_icons=true&cache_seconds=86400&theme=dark&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&include_all_commits=true&count_private=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fernandocruzcavina&show_icons=true&hide=prs&cache_seconds=86400&theme=ambient_gradient"
+    srcset="https://github-readme-stats.vercel.app/api?username=fernandocruzcavina&show_icons=true&hide=prs&cache_seconds=86400&theme=ambient_gradient&include_all_commits=true&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=fernandocruzcavina&show_icons=true" />
 </picture>
-<picture align="right">
+<picture >
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fernandocruzcavina&show_icons=true&theme=dark&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fernandocruzcavina&show_icons=true&theme=dark&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact&langs_count=10"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fernandocruzcavina&show_icons=true&cache_seconds=86400&theme=ambient_gradient&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fernandocruzcavina&show_icons=true&cache_seconds=86400&theme=ambient_gradient&layout=compact&langs_count=10"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=fernandocruzcavina&show_icons=true" />
@@ -128,14 +129,16 @@
 </div>
 
 
-<picture align="center">
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/FernandoCruzCavina/FernandoCruzCavina/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/FernandoCruzCavina/FernandoCruzCavina/output/github-contribution-grid-snake.svg"
-  />
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FernandoCruzCavina/FernandoCruzCavina/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture >
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/FernandoCruzCavina/FernandoCruzCavina/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/FernandoCruzCavina/FernandoCruzCavina/output/github-contribution-grid-snake.svg"
+    />
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FernandoCruzCavina/FernandoCruzCavina/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
