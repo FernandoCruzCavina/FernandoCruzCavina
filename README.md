@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fernandocruzcavina.fernandocruzcavina" />
+ <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fernandocruzcavina.fernandocruzcavina" />
 
 <h1 align="center">
     <picture>
@@ -29,7 +29,11 @@ Ask me about **java, React, typescript... or anything [here](https://github.com/
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/fernando-cruz-cavina" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <picture>
+        <source srcset="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0077B5" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </picture>
   </a>
   <!-- Portfolio -->
   <a href="#" target="_blank" rel="noreferrer"><!-- someday i put my portfolio -->
@@ -74,7 +78,7 @@ Ask me about **java, React, typescript... or anything [here](https://github.com/
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=fernandocruzcavina&show_icons=true&hide=prs&cache_seconds=86400&theme=ambient_gradient&include_all_commits=true&count_private=true"
+        srcset="https://github-readme-stats.vercel.app/api?username=fernandocruzcavina&show_icons=true&cache_seconds=86400&theme=ambient_gradient&include_all_commits=true&count_private=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img height="200px" src="https://github-readme-stats.vercel.app/api?username=fernandocruzcavina&show_icons=true" />
@@ -92,8 +96,8 @@ Ask me about **java, React, typescript... or anything [here](https://github.com/
     </picture>
     <picture>
         <source srcset="https://streak-stats.demolab.com?user=fernandocruzcavina&theme=react&border_radius=10&border=30A3DC&background=000000&ring=30A3DC&fire=30A3DC&sideLabels=30A3DC&currStreakNum=30A3DC&currStreakLabel=30A3DC&sideNums=30A3DC&dates=EBEBEB&stroke=EBEBEB" media="(prefers-color-scheme: dark)"/>
-        <source srcset="https://streak-stats.demolab.com?user=fernandocruzcavina&theme=ambient-gradient&border_radius=10" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img height="200px" src="https://streak-stats.demolab.com?user=fernandocruzcavina&theme=ambient-gradient&border_radius=10" alt="streak stats"/>
+        <source srcset="https://streak-stats.demolab.com?user=fernandocruzcavina&theme=cyber-streakglow&border_radius=10" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img height="200px" src="https://streak-stats.demolab.com?user=fernandocruzcavina&theme=cyber-streakglow&border_radius=10" alt="streak stats"/>
     </picture>
   
 </div>
