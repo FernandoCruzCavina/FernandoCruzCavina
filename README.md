@@ -1,7 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fernandocruzcavina.fernandocruzcavina" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=2000&color=30A3DC&center=true&vCenter=true&width=360&lines=Greeting%2C+devs!+%E2%9C%A8;I'm+Fernando+Cruz+%E2%98%95" alt="Typing SVG" />
+    <picture>
+        <source srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=2000&color=30A3DC&center=true&vCenter=true&width=360&lines=Greeting%2C+devs!+%E2%9C%A8;I'm+Fernando+Cruz+%E2%98%95" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=2000&color=56E7FF&center=true&vCenter=true&width=360&lines=Greeting%2C+devs!+%E2%9C%A8;I'm+Fernando+Cruz+%E2%98%95" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=2000&color=30A3DC&center=true&vCenter=true&width=360&lines=Greeting%2C+devs!+%E2%9C%A8;I'm+Fernando+Cruz+%E2%98%95" alt="Typing SVG" />
+    </picture>
 </h1>
 
 
@@ -53,7 +57,7 @@ Ask me about **java, React, typescript... or anything [here](https://github.com/
 
 <div align="center">
 
-  <h3>⚒️Language & Frameworks & Tools⚒️</h3>
+<h3>⚒️Language & Frameworks & Tools⚒️</h3>
     <img src="https://skillicons.dev/icons?i=java,typescript,html,sass,css,spring,vite,mysql,postgres,redis"/>
     <br/>
     <img src="https://skillicons.dev/icons?i=github,git,githubactions,react,tailwind,kafka,rabbitmq,linux,arch,vim,neovim,vscode,idea" />
@@ -88,8 +92,9 @@ Ask me about **java, React, typescript... or anything [here](https://github.com/
     </picture>
     <picture>
         <source srcset="https://streak-stats.demolab.com?user=fernandocruzcavina&theme=react&border_radius=10&border=30A3DC&background=000000&ring=30A3DC&fire=30A3DC&sideLabels=30A3DC&currStreakNum=30A3DC&currStreakLabel=30A3DC&sideNums=30A3DC&dates=EBEBEB&stroke=EBEBEB" media="(prefers-color-scheme: dark)"/>
+        <source srcset="https://streak-stats.demolab.com?user=fernandocruzcavina&theme=ambient-gradient&border_radius=10" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img height="200px" src="https://streak-stats.demolab.com?user=fernandocruzcavina&theme=ambient-gradient&border_radius=10" alt="streak stats"/>
     </picture>
-        <img height="200px" src="https://streak-stats.demolab.com?user=fernandocruzcavina&theme=react&border_radius=10&border=30A3DC&background=000000&ring=30A3DC&fire=30A3DC&sideLabels=30A3DC&currStreakNum=30A3DC&currStreakLabel=30A3DC&sideNums=30A3DC&dates=EBEBEB&stroke=EBEBEB" alt="streak stats"/>
   
 </div>
 <!---snake-commits-game-->
