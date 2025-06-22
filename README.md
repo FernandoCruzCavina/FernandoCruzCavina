@@ -1,8 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fernandocruzcavina.fernandocruzcavina" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&height=40&lines=%3E+Greetings%2C+devs!++%3D);%3E+I'm+Fernando+Cruz+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=2000&color=30A3DC&center=true&vCenter=true&width=360&lines=Greeting%2C+devs!+%E2%9C%A8;I'm+Fernando+Cruz+%E2%98%95" alt="Typing SVG" />
 </h1>
+
 
 <div align="center">
 
@@ -27,7 +28,7 @@ Ask me about **java, React, typescript... or anything [here](https://github.com/
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <!-- Portfolio -->
-  <a href="#" target="_blank" rel="noreferrer"><!-- Atualize aqui quando tiver um link -->
+  <a href="#" target="_blank" rel="noreferrer"><!-- someday i put my portfolio -->
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
   <!-- HackerRank -->
@@ -53,12 +54,10 @@ Ask me about **java, React, typescript... or anything [here](https://github.com/
 <div align="center">
 
   <h3>⚒️Language & Frameworks & Tools⚒️</h3>
-<!--   <picture>
-    <source srcset="https://skillicons.dev/icons?i=java,redis,mysql,typescript,html,sass,css,linux,git,vscode,react,docker,github,spring,tailwind,vim,neovim,arch,githubactions,idea,kafka,postgres,postman,rabbitmq,vite&perline=5&theme=" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://skillicons.dev/icons?i=java,redis,mysql,typescript,html,sass,css,linux,git,vscode,react,docker,github,spring,tailwind,vim,neovim,arch,githubactions,idea,kafka,postgres,postman,rabbitmq,vite&perline=5&theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  </picture> -->
-    <img src="https://skillicons.dev/icons?i=java,redis,mysql,typescript,html,sass,css,linux,git,vscode,react,docker,github,spring,tailwind,vim,neovim,arch,githubactions,idea,kafka,postgres,postman,rabbitmq,vite"/>
-  
+    <img src="https://skillicons.dev/icons?i=java,typescript,html,sass,css,spring,vite,mysql,postgres,redis"/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=github,git,githubactions,react,tailwind,kafka,rabbitmq,linux,arch,vim,neovim,vscode,idea" />
+
 </div>
 
 ##
@@ -66,29 +65,33 @@ Ask me about **java, React, typescript... or anything [here](https://github.com/
 <div  align="center">
   <h3 align="center">⚡GitStats⚡</h3>
   <picture >
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fernandocruzcavina&show_icons=true&cache_seconds=86400&theme=dark&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fernandocruzcavina&show_icons=true&hide=prs&cache_seconds=86400&theme=ambient_gradient&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandocruzcavina&show_icons=true" />
-</picture>
-<picture >
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fernandocruzcavina&show_icons=true&theme=dark&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact&langs_count=10"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fernandocruzcavina&show_icons=true&cache_seconds=86400&theme=ambient_gradient&layout=compact&langs_count=10"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandocruzcavina&show_icons=true" />
-</picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=fernandocruzcavina&show_icons=true&cache_seconds=86400&theme=react&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=30A3DC&text_color=FFF&include_all_commits=true&count_private=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=fernandocruzcavina&show_icons=true&hide=prs&cache_seconds=86400&theme=ambient_gradient&include_all_commits=true&count_private=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height="200px" src="https://github-readme-stats.vercel.app/api?username=fernandocruzcavina&show_icons=true" />
+    </picture>
+    <picture >
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fernandocruzcavina&show_icons=true&theme=react&bg_color=000&border_color=30A3DC&title_color=30A3DC&text_color=FFF&layout=compact&langs_count=10"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fernandocruzcavina&show_icons=true&cache_seconds=86400&theme=ambient_gradient&layout=compact&langs_count=10"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height="200px" src="https://github-readme-stats.vercel.app/api?username=fernandocruzcavina&show_icons=true" />
+    </picture>
+    <picture>
+        <source srcset="https://streak-stats.demolab.com?user=fernandocruzcavina&theme=react&border_radius=10&border=30A3DC&background=000000&ring=30A3DC&fire=30A3DC&sideLabels=30A3DC&currStreakNum=30A3DC&currStreakLabel=30A3DC&sideNums=30A3DC&dates=EBEBEB&stroke=EBEBEB" media="(prefers-color-scheme: dark)"/>
+    </picture>
+        <img height="200px" src="https://streak-stats.demolab.com?user=fernandocruzcavina&theme=react&border_radius=10&border=30A3DC&background=000000&ring=30A3DC&fire=30A3DC&sideLabels=30A3DC&currStreakNum=30A3DC&currStreakLabel=30A3DC&sideNums=30A3DC&dates=EBEBEB&stroke=EBEBEB" alt="streak stats"/>
+  
 </div>
-
 <!---snake-commits-game-->
 <div align="center">
   <picture >
