@@ -1,4 +1,8 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&height=40&lines=%3E+Greetings%2C+devs!++%3D);%3E+I'm+Fernando+Cruz+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fernandocruzcavina.fernandocruzcavina" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&height=40&lines=%3E+Greetings%2C+devs!++%3D);%3E+I'm+Fernando+Cruz+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG" />
+</h1>
 
 <div align="center">
 
