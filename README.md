@@ -13,7 +13,7 @@
 
 I’m currently learning **java  spring boot** <img src= "https://media1.giphy.com/media/EMItNuVu9Qi2NPblnN/giphy.webp?cid=ecf05e476naq1f1l15wfauobgsp59d8hotsxmxrczt623rdf&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="25"/>
 
-Ask me about **java, React, typescript... or anything [here](https://github.com/fernandocruzcavina/fernandocruzcavina/issues)**
+Ask me about **java, React, typescript or anything [here](https://github.com/fernandocruzcavina/fernandocruzcavina/issues)**
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWp0dzFpMmw4cXZkb3liMGlrcDZzYW5zaXJxbHcxNjllajRocGZkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7NgYelDPXmzbzxrKsj/giphy.gif" width="30"/>
 
 </div>
@@ -58,6 +58,7 @@ Ask me about **java, React, typescript... or anything [here](https://github.com/
 
 </div>
 
+##
 
 <div align="center">
 
