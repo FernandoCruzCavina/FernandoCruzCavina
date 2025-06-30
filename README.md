@@ -36,9 +36,9 @@ Ask me about **java, React, typescript or anything [here](https://github.com/fer
       </picture>
   </a>
   <!-- Portfolio -->
-  <a href="#" target="_blank" rel="noreferrer"><!-- someday i put my portfolio -->
+  <!--<a href="#" target="_blank" rel="noreferrer"><!-- someday i put my portfolio 
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-  </a>
+  </a> -->
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/fernando_cruz_c2" target="_blank" rel="noreferrer">
     <picture>
