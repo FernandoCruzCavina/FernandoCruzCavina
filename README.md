@@ -48,7 +48,7 @@ Ask me about **java, React, typescript or anything [here](https://github.com/fer
     </picture>
   </a>
   <!-- LeetCode -->
-  <a href="https://leetcode.com/fernandocruz" target="_blank" rel="noreferrer">
+  <a href="https://leetcode.com/u/egxIwCCxk9/" target="_blank" rel="noreferrer">
     <picture>
       <source srcset="https://img.shields.io/badge/LeetCode-333333?style=for-the-badge&logo=leetcode&logoColor=FFA116" media="(prefers-color-scheme: dark)" />
       <source srcset="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
@@ -63,9 +63,9 @@ Ask me about **java, React, typescript or anything [here](https://github.com/fer
 <div align="center">
 
 <h3>⚒️Language & Frameworks & Tools⚒️</h3>
-    <img src="https://skillicons.dev/icons?i=java,typescript,html,sass,css,spring,vite,mysql,postgres,redis"/>
+    <img src="https://skillicons.dev/icons?i=java,typescript,html,css,spring,vite,mysql,postgres,redis"/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=github,git,githubactions,react,tailwind,kafka,rabbitmq,linux,arch,vim,neovim,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=github,git,githubactions,react,tailwind,kafka,rabbitmq,linux,arch,neovim,vscode,idea" />
 
 </div>
 
