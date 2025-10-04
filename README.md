@@ -48,7 +48,7 @@ Ask me about **java, React, typescript or anything [here](https://github.com/fer
     </picture>
   </a>
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/egxIwCCxk9/" target="_blank" rel="noreferrer">
+  <a href="https://leetcode.com/u/fernando-cruz-cavina" target="_blank" rel="noreferrer">
     <picture>
       <source srcset="https://img.shields.io/badge/LeetCode-333333?style=for-the-badge&logo=leetcode&logoColor=FFA116" media="(prefers-color-scheme: dark)" />
       <source srcset="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
